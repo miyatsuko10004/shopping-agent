@@ -15,3 +15,7 @@ data/
 # Environment files
 .env
 .env.*
+
+# playwrite mcp
+.cache
+.playwright-mcp
