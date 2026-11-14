@@ -19,3 +19,6 @@ data/
 # playwrite mcp
 .cache
 .playwright-mcp
+
+# Others
+.DS_Store
